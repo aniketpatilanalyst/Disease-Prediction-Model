@@ -1,6 +1,6 @@
 Check on Kaggle:- https://www.kaggle.com/miracle9to9/malaria-pred
 
-# Disease-Prediction-Model:-
+# Disease-Prediction-Model
 Prediction Model on Cell Images for Detecting Malaria
 
 • Content:-
