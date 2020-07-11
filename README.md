@@ -2,12 +2,12 @@
 
 # Disease Prediction Model (Malaria)
 Prediction Model on Cell Images for Detecting Malaria
-![](https://www.bristol.ac.uk/media-library/sites/news/2019/aug/29%20Aug%20Malaria%20invasion%20cycle%20-%20article.jpg)
+...........................![](https://www.bristol.ac.uk/media-library/sites/news/2019/aug/29%20Aug%20Malaria%20invasion%20cycle%20-%20article.jpg).......................
 
 ## Content:-
   >The dataset contains 2 folders - Infected - Uninfected with Training and Testing.
   
-...........................................................![](https://pics.me.me/normal-malaria-red-blood-cell-infected-with-malaria-red-blood-40210153.png).................................................
+....................................................![](https://pics.me.me/normal-malaria-red-blood-cell-infected-with-malaria-red-blood-40210153.png).................................................
 
 ## Acknowledgements(Original):-
   This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/ And uploaded here, so          anybody trying to start working with this dataset can get started immediately, as to download the dataset from NIH website is quite slow.
