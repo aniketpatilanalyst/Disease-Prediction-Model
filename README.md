@@ -2,10 +2,16 @@
 
 # Disease Prediction Model (Malaria)
 
+<p align="center">
+  <img src="https://bp3.blogger.com/_EX0XIqwdGyY/SBr1XP7PFPI/AAAAAAAABzg/W9ZwW9_MLmM/s400/plasmodium_falciparum+cycle.jpg" />
+</p>
+
 ## Content:-
   >The dataset contains 2 folders - Infected - Uninfected with Training and Testing.
   
-....................................................![](https://pics.me.me/normal-malaria-red-blood-cell-infected-with-malaria-red-blood-40210153.png).................................................
+<p align="center">
+  <img src="https://pics.me.me/normal-malaria-red-blood-cell-infected-with-malaria-red-blood-40210153.png" />
+</p>
 
 ## Acknowledgements(Original):-
   This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/ And uploaded here, so anybody trying to start working with this dataset can get started immediately, as to download the dataset from NIH website is quite slow.
