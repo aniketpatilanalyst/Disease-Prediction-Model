@@ -1,4 +1,6 @@
-> Check on Kaggle:- https://www.kaggle.com/miracle9to9/malaria-pred
+> Check on Kaggle:- https://www.kaggle.com/miracle9to9/detecting-malaria-keras-cnn
+
+> Dataset Link:- https://www.kaggle.com/miracle9to9/files1
 
 # Disease Prediction Model (Malaria)
 
