@@ -12,7 +12,7 @@
   >The dataset contains 2 folders - Infected - Uninfected with Training and Testing.
   
 <p align="center">
-  <img src="https://pics.me.me/normal-malaria-red-blood-cell-infected-with-malaria-red-blood-40210153.png" />
+  <img src="https://lh3.googleusercontent.com/TmA1U5C7lzXZ5i0P9Y6t3owgKw8lA1rC7w8VdifTB3DWK64kqG0Vi0QaR1F74rQatWrYPduu-HvocIyMXxhjqYHL1x-a5MaQr6jqzy18JG9OEhSIgJh8h1dpSF8aIYgOPo1Y1VBFV_6dXJ6yo3JjZqT0wrw9twAJhTebmzHlAu7HZnAQBH-hlA407ftONLLMnwgx8fOgeWMPGEz0k64WlofysLPY5i_V123LDd-BsYeBEqX0nsmgAcF9tEB2ahXk99N0cIKOuet3LM93nOZc2avGT0PNRAOUF4RoQv8SP5PtQPc1qfds4hpj5K_kGkFqk3t6SmRCMEkHrArzaSZLltTW7tKKOlPCcuhFpYO1C8E5Dt_Ci9CPohZTZ-fk5WWIEnh__GCdplKP_1gVYNCX0O-7rWgKbMi5gg0NGMlNwPYJmd6kYx6vlKVLyiTTpGQhPV3ORskyoVhiUXdG9CZzyH55FYaQ_yhmC4AOAtEP6CcTqRQ2FGI6mfSAzYnFzs0cKYjHXxFD7ultnn37PN7t3CsDTAvnKygezjy9XjjVlCW3IPwElH1NCLt7RWAnrLSnAq2MdRUfyAqNZLEhPGydUlPpcRzIeDfdYhFusgahU3YQFKzrEXlkrxEhaWB06mR1EpAXWM6P8ifO0MjrcX4zxmYBGcFhbS7mPHNIVRUL7YVY6xnkrne7AexJVcCj=w1000-h621-no?authuser=0" />
 </p>
 
 ## Implementation
