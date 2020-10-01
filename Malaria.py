@@ -19,7 +19,7 @@ classifier = Sequential()
 # 3 is rgb
 classifier.add(Convolution2D(64,3,3, input_shape=(64,64,3), activation='relu'))
 
-# Step2 - Pooling
+# Step2 - Pooling operation
 #Processing
 # Hidden Layer 1
 # 2,2 matrix rotates, tilts, etc to all the images
@@ -77,7 +77,7 @@ classifier.fit_generator(
 
 import numpy as np
 from PIL import image
-# Verifing ouor Model by giving samples of cell to detect malaria
+# Verifing our Model by giving samples of cell to detect malaria
 test_image = image.load_img('/kaggle/input/files1/Malaria Cells/single_prediction/Parasitised.png', target_size = (64, 64))
 test_image = image.img_to_array(test_image)
 test_image = np.expand_dims(test_image, axis = 0)
